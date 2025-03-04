@@ -241,6 +241,7 @@ $ git checkout main
 Switched to branch 'main'
 Your branch is up to date with 'origin/main'.
 
+
 Lenovo@DESKTOP-UB2H0VT MINGW64 /c/Tugas PW 1/belajarGIT (main)
 $ git merge Tugas-midProject
 Updating eda2bef..28d266d
